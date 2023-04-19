@@ -1,2 +1,1 @@
-# binaybm.github.io
-Binay Github Page
+Please click here to visit my [portfolio](https://binaybm.github.io/).
